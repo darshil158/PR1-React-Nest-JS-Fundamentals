@@ -1,6 +1,6 @@
 # React-Nest-JS-Fundamentals-PR1-
 
-#Next App Crud Operation
+# Next App Crud Operation
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a9da6447-f5f3-4fb0-a3c9-8ec65d05c6b9" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b92c6d7f-3995-46bb-b91e-0915cc38401b" />
@@ -8,7 +8,7 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06b0e7fd-b654-46bd-b036-b04866e903b3" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a67149c1-fc48-4e84-85e4-efe974e07cae" />
 
- #React JS CRUD Operation
+ # React JS CRUD Operation
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/16e5d8f3-86d6-4c86-a9a3-1405a590bedf" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/836bd695-760f-4a64-82a6-4405e4464795" />
@@ -17,3 +17,10 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b66c20c3-a372-408d-b756-a9b3e6f860ad" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d10a2912-074f-4230-886d-4941c0a68c38" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3997c9f0-2840-46a9-abe9-3ec5faab3e25" />
+
+# Spread - Rest Operation
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a050ece8-042d-4bd7-8fc5-1f12afed8d76" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ea2a4684-345c-43c6-9ac9-7c62a0702ff0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/258ad9be-b728-4ac2-9666-6095e5917a17" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2504ac26-d8fb-45cb-aabc-69e4de8e26b8" />
