@@ -10,6 +10,15 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cd5aba3c-5318-46ba-a433-a21f3f40adaa" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2407081c-5c85-4bcb-bae9-ce29763706a2" />
 
+## Next JS CRUD Operation
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2e5aa2d-76fd-4cb9-a8c4-7f564512e6fb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/947fdaff-f810-4ff7-af37-215986d943c7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/309af666-24c9-449a-b2d2-8da9ba509e70" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e234508-e8e5-4072-9ca1-13f85f217cf1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9db58c0d-ae15-44b4-8de9-8f183937a476" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82e4f1bd-ad1d-41b5-a9d9-dfdfa45d9f4e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0713eea7-fb38-4f74-8b9a-5034ecd4b43d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/89914a7e-390c-4811-82b7-817c5218d5f5" />
 
 
 ## Spread - Rest Operation
