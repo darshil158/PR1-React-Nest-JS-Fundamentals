@@ -5,7 +5,7 @@
 - To run the Project, install zip file from github repo.
 - Extract it.
 - Write cmd "npm i" in terminal after extracting that unzip folder.
-- Enter "npm run dev" to run in "[localhost:5173](http://localhost:5173/)" for React JS and "[http://localhost:3000/]" for Next JS.
+- Enter "npm run dev" to run in "[localhost:5173](http://localhost:5173/)" for React JS and "[localhost:3000/](http://localhost:3000/)" for Next JS.
 
 
 ## Files in React/Next CRUD Operation
