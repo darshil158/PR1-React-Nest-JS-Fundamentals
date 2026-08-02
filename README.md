@@ -8,6 +8,28 @@
 - Enter "npm run dev" to run in "[localhost:5173](http://localhost:5173/)" for React JS and "[http://localhost:3000/]" for Next JS.
 
 
+## Files in React/Next CRUD Operation
+
+- Student Card
+- Student Table
+- Student Form
+- App / Page
+- App / Global CSS file
+- Main / Layout
+
+## What is Student List Manager
+
+- It stores entered Student deatils in Tabular Format in Student Table.
+- Easy to Find any Student Information from Table.
+
+## Student Form
+
+- Student Name
+- Student City
+- Student State
+- Student Gujarat
+- Student Course
+
 
  ## React JS CRUD Operation
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ec163a3a-48f5-40c5-8d68-81a27a91e5df" />
