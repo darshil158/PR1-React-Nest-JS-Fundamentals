@@ -1,5 +1,12 @@
 # PR1-React-Nest-JS-Fundamentals
 
+## How to Run Next and React Websites
+
+- To run the Project, install zip file from github repo.
+- Extract it.
+- Write cmd "npm i" in terminal after extracting that unzip folder.
+- Enter "npm run dev" to run in "[localhost:5173](http://localhost:5173/)" for React JS and "[http://localhost:3000/]" for Next JS.
+
 
 
  ## React JS CRUD Operation
